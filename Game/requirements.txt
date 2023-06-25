@@ -1,0 +1,9 @@
+pygame
+pygame_menu
+easygui
+redis
+sqlite3
+tensorflow
+librosa
+pyaudio
+numpy
